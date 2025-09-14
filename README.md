@@ -5,11 +5,11 @@ Power BI dashboard for analyzing luxury cosmetics sales performance across regio
 This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to analyze and visualize sales performance across different brands, regions, and event types.The dashboard helps stakeholders track units sold, revenue trends, conversion rates, and regional performance to make data-driven decisions.  
 
 🚀 Key Features
- - KPI Cards  
-   - Sum of Units Sold: 4M  
-   - Average Revenue per Unit: 4K  
-   - Total Revenue: 399M  
-   - Average Conversion Rate: 3%    
+ - KPI Cards    
+   - Sum of Units Sold: 4M    
+   - Average Revenue per Unit: 4K    
+   - Total Revenue: 399M    
+   - Average Conversion Rate: 3%      
 
  - Visual Insights  
 
