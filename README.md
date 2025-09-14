@@ -27,24 +27,17 @@ This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to an
    • Location type filter   
 
 🛠️ Tools & Technologies
-
-Power BI Desktop
-
-Data sources: (placeholder – update with your dataset details, e.g., Excel/SQL/CSV)
-
-DAX for calculated measures (e.g., Avg Revenue per Unit, Conversion Rate)
+   • Power BI Desktop  
+   • Data sources: (placeholder – update with your dataset details, e.g., Excel/SQL/CSV)  
+   • DAX for calculated measures (e.g., Avg Revenue per Unit, Conversion Rate)  
 
 📈 Business Value
 
 This dashboard enables:
-
-Identifying top-performing brands and regions.
-
-Tracking monthly revenue trends for demand forecasting.
-
-Measuring conversion efficiency across different sales channels.
-
-Supporting strategic decision-making for marketing and sales.
+  • Identifying top-performing brands and regions.  
+  • Tracking monthly revenue trends for demand forecasting.    
+  • Measuring conversion efficiency across different sales channels.    
+  • Supporting strategic decision-making for marketing and sales.  
 
 📂 Repository Structure
 ├── cosmetics.png        # Dashboard preview image
@@ -52,25 +45,19 @@ Supporting strategic decision-making for marketing and sales.
 └── <your_powerbi_file.pbix>  # Power BI dashboard file (if uploaded)
 
 📌 How to Use
+1. Clone this repository:
 
-Clone this repository:
+git clone https://github.com/<your-username>/<repo-name>.git  
 
-git clone https://github.com/<your-username>/<repo-name>.git
+2. Open the .pbix file in Power BI Desktop.    
+3. Explore and interact with the filters and visuals.    
 
-
-Open the .pbix file in Power BI Desktop.
-
-Explore and interact with the filters and visuals.
-
-🤝 Contributing
+🤝 Contributing  
 
 Contributions are welcome! If you’d like to improve the dashboard, optimize measures, or add new visuals:
-
-Fork the repo
-
-Create a feature branch
-
-Submit a pull request
+ 1. Fork the repo  
+ 2. Create a feature branch  
+ 3. Submit a pull request  
 
 📜 License
 
