@@ -8,10 +8,10 @@ This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to an
 
  ➡️ KPI Cards
  
-    - Sum of Units Sold: 4M
-    - Average Revenue per Unit: 4K  
-    - Total Revenue: 399M  
-    - Average Conversion Rate: 3%                    
+    - Sum of Units Sold: 4M  
+    - Average Revenue per Unit: 4K   
+    - Total Revenue: 399M    
+    - Average Conversion Rate: 3%                     
 
  ➡️ Visual Insights  
    • Top Brands by Revenue – Doughnut chart highlighting leading cosmetic brands.  
