@@ -7,8 +7,11 @@ This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to an
 🚀 Key Features  
 
  ➡️ KPI Cards
-
-    - Sum of units Sold: 4M  
+ 
+    • Sum of Units Sold: 4M  
+    • Average Revenue per Unit: 4K    
+    • Total Revenue: 399M    
+    • Average Conversion Rate: 3%  
 
  ➡️ Visual Insights  
  
@@ -19,13 +22,15 @@ This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to an
    • Event Type - Avg Units/Day – Horizontal bar chart comparing sales across events (Flash Event, Mall Kiosk, Pop-Ups, etc.).  
    • Brand Revenue & Conversion Analysis – Scatter plot analyzing brand revenue vs. conversion rate.    
 
- ➡️ Interactive Filters    
+ ➡️ Interactive Filters
+ 
    • Brand selector    
    • Region filter    
    • Event type filter    
    • Location type filter   
 
 🛠️ Tools & Technologies
+
    • Power BI Desktop  
    • Data sources: (placeholder – update with your dataset details, e.g., Excel/SQL/CSV)  
    • DAX for calculated measures (e.g., Avg Revenue per Unit, Conversion Rate)  
