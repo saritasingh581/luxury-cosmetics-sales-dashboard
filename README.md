@@ -11,6 +11,7 @@ This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to an
     - Sum of units Sold: 4M  
 
  ➡️ Visual Insights  
+ 
    • Top Brands by Revenue – Doughnut chart highlighting leading cosmetic brands.  
    • Regional Revenue – Bar chart comparing sales across Europe, Latin America, Middle East, North America, and Asia-Pacific.  
    • Monthly Revenue Trend – Line chart to track seasonal performance.  
