@@ -15,33 +15,33 @@ This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to an
 
  ➡️ Visual Insights  
  
-   • Top Brands by Revenue – Doughnut chart highlighting leading cosmetic brands.  
-   • Regional Revenue – Bar chart comparing sales across Europe, Latin America, Middle East, North America, and Asia-Pacific.  
-   • Monthly Revenue Trend – Line chart to track seasonal performance.  
-   • Top Brands by Conversion Rate – Bar chart showing conversion efficiency.  
-   • Event Type - Avg Units/Day – Horizontal bar chart comparing sales across events (Flash Event, Mall Kiosk, Pop-Ups, etc.).  
-   • Brand Revenue & Conversion Analysis – Scatter plot analyzing brand revenue vs. conversion rate.    
+    • Top Brands by Revenue – Doughnut chart highlighting leading cosmetic brands.  
+    • Regional Revenue – Bar chart comparing sales across Europe, Latin America, Middle East, North America, and Asia-Pacific.  
+    • Monthly Revenue Trend – Line chart to track seasonal performance.  
+    • Top Brands by Conversion Rate – Bar chart showing conversion efficiency.  
+    • Event Type - Avg Units/Day – Horizontal bar chart comparing sales across events (Flash Event, Mall Kiosk, Pop-Ups, etc.).  
+    • Brand Revenue & Conversion Analysis – Scatter plot analyzing brand revenue vs. conversion rate.    
 
  ➡️ Interactive Filters
  
-   • Brand selector    
-   • Region filter    
-   • Event type filter    
-   • Location type filter   
+    • Brand selector    
+    • Region filter    
+    • Event type filter    
+    • Location type filter   
 
 🛠️ Tools & Technologies
 
-   • Power BI Desktop  
-   • Data sources: (placeholder – update with your dataset details, e.g., Excel/SQL/CSV)  
-   • DAX for calculated measures (e.g., Avg Revenue per Unit, Conversion Rate)  
+    • Power BI Desktop  
+    • Data sources: (placeholder – update with your dataset details, e.g., Excel/SQL/CSV)  
+    • DAX for calculated measures (e.g., Avg Revenue per Unit, Conversion Rate)  
 
 📈 Business Value
 
-This dashboard enables:
-  • Identifying top-performing brands and regions.  
-  • Tracking monthly revenue trends for demand forecasting.    
-  • Measuring conversion efficiency across different sales channels.    
-  • Supporting strategic decision-making for marketing and sales.  
+This dashboard enables:  
+   • Identifying top-performing brands and regions.  
+   • Tracking monthly revenue trends for demand forecasting.    
+   • Measuring conversion efficiency across different sales channels.    
+   • Supporting strategic decision-making for marketing and sales.  
 
 📂 Repository Structure
 ├── cosmetics.png        # Dashboard preview image
