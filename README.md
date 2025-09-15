@@ -6,7 +6,7 @@ This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to an
 
 🚀 Key Features  
 
- ➡️ KPI Cards
+ ➡️ KPI Cards  
      1. Sum of Units Sold: 4M             
      2. Average Revenue per Unit: 4K                
      3. Total Revenue: 399M                
