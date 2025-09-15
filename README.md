@@ -43,9 +43,9 @@ This dashboard enables:
    • Measuring conversion efficiency across different sales channels.    
    • Supporting strategic decision-making for marketing and sales.  
 
-📂 Repository Structure
-├── cosmetics.png        # Dashboard preview image
-├── README.md            # Project documentation
+📂 Repository Structure  
+''' cosmetics.png        # Dashboard preview image  '''
+''' README.md            # Project documentation  '''
 └── <your_powerbi_file.pbix>  # Power BI dashboard file (if uploaded)
 
 📌 How to Use
