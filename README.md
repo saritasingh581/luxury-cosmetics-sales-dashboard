@@ -1,68 +1,51 @@
-Power BI dashboard for analyzing luxury cosmetics sales performance across regions, brands, and events. Includes KPIs, revenue trends, conversion rates, and interactive filters for data-driven insights.
+This dashboard was built to transform luxury cosmetics sales data into a simple, visual, and interactive format. Instead of scanning spreadsheets, you can now explore how brands, regions, and events drive performance.
 
-📊 Project Overview  
+🌟 What You’ll See Inside
 
-This project presents a Luxury Cosmetics Sales Dashboard built in Power BI to analyze and visualize sales performance across different brands, regions, and event types.The dashboard helps stakeholders track units sold, revenue trends, conversion rates, and regional performance to make data-driven decisions.  
+- At a glance:  
 
-🚀 Key Features  
+4M Units Sold
 
- ➡️ KPI Cards  
- 
-    - Sum of Units Sold: 4M   
-    - Average Revenue per Unit: 4K      
-    • Total Revenue: 399M    
-    • Average Conversion Rate: 3%  
+399M Total Revenue
 
- ➡️ Visual Insights  
- 
-    • Top Brands by Revenue – Doughnut chart highlighting leading cosmetic brands.  
-    • Regional Revenue – Bar chart comparing sales across Europe, Latin America, Middle East, North America, and Asia-Pacific.  
-    • Monthly Revenue Trend – Line chart to track seasonal performance.  
-    • Top Brands by Conversion Rate – Bar chart showing conversion efficiency.  
-    • Event Type - Avg Units/Day – Horizontal bar chart comparing sales across events (Flash Event, Mall Kiosk, Pop-Ups, etc.).  
-    • Brand Revenue & Conversion Analysis – Scatter plot analyzing brand revenue vs. conversion rate.    
+4K Avg. Revenue per Unit
 
- ➡️ Interactive Filters
- 
-    • Brand selector    
-    • Region filter    
-    • Event type filter    
-    • Location type filter   
+3% Conversion Rate
 
-🛠️ Tools & Technologies
+Trends & Insights:
 
-    • Power BI Desktop  
-    • Data sources: (placeholder – update with your dataset details, e.g., Excel/SQL/CSV)  
-    • DAX for calculated measures (e.g., Avg Revenue per Unit, Conversion Rate)  
+Seasonal peaks around April–May
 
-📈 Business Value
+Estée Lauder, YSL, and Rare Beauty dominate revenue
 
-This dashboard enables:  
-   • Identifying top-performing brands and regions.  
-   • Tracking monthly revenue trends for demand forecasting.    
-   • Measuring conversion efficiency across different sales channels.    
-   • Supporting strategic decision-making for marketing and sales.  
+NARS leads in conversion efficiency
 
-📂 Repository Structure  
-''' cosmetics.png        # Dashboard preview image  '''
-''' README.md            # Project documentation  '''
-└── <your_powerbi_file.pbix>  # Power BI dashboard file (if uploaded)
+Europe tops regional sales with 89M revenue
 
-📌 How to Use
-1. Clone this repository:
+Flash Events & Pop-ups outperform other sales channels
 
-git clone https://github.com/<your-username>/<repo-name>.git  
+🎛 How You Can Interact
 
-2. Open the .pbix file in Power BI Desktop.    
-3. Explore and interact with the filters and visuals.    
+Filter by Brand, Region, Event Type, or Location
 
-🤝 Contributing  
+Compare brands by both revenue and conversion
 
-Contributions are welcome! If you’d like to improve the dashboard, optimize measures, or add new visuals:
- 1. Fork the repo  
- 2. Create a feature branch  
- 3. Submit a pull request  
+Drill into specific regions or channels for deeper insights
 
-📜 License
+🛠 Built With
 
-This project is licensed under the MIT License – feel free to use and modify.
+Power BI for dashboard design
+
+DAX measures for KPIs (Avg. Revenue per Unit, Conversion Rate, etc.)
+
+Data cleaning & transformation for accuracy
+
+🚀 Why It Matters
+
+This dashboard isn’t just for tracking numbers — it’s designed to help:
+
+Spot opportunities in underperforming regions
+
+Optimize event types & sales channels
+
+Support data-driven marketing & product decisions
