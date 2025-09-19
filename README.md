@@ -49,3 +49,24 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
 | `cosmetics.png`   | Dashboard preview image             |
 | `dashboard.pbix`  | Power BI file                       |
 | `README.md`       | Project documentation               |
+
+📌 How to Use
+
+ 1. Clone this repository:
+
+   git clone https://github.com/saritasingh581/luxury-cosmetics-sales-dashboard
+
+ 2. Open the .pbix file in Power BI Desktop.
+ 3. Explore and interact with the filters and visuals.
+
+🤝 Contributing
+
+ Contributions are welcome! If you’d like to improve the dashboard, optimize measures, or add new visuals:
+
+ 1. Fork the repo
+ 2. Create a feature branch  
+ 3. Submit a pull request  
+
+📜 License
+
+ This project is licensed under the MIT License – feel free to use and modify.
