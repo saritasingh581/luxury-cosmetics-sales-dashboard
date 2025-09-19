@@ -34,10 +34,7 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
 
 🚀 Why It Matters
 
-This dashboard isn’t just for tracking numbers — it’s designed to help:
-
-Spot opportunities in underperforming regions
-
-Optimize event types & sales channels
-
-Support data-driven marketing & product decisions
+ - This dashboard isn’t just for tracking numbers — it’s designed to help:  
+ - Spot opportunities in underperforming regions  
+ - Optimize event types & sales channels  
+ - Support data-driven marketing & product decisions  
