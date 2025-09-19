@@ -11,11 +11,11 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
 
  - Trends & Insights:      
 
--> Seasonal peaks around April–May  
--> Estée Lauder, YSL, and Rare Beauty dominate revenue  
--> NARS leads in conversion efficiency    
--> Europe tops regional sales with 89M revenue  
--> Flash Events & Pop-ups outperform other sales channels  
+  - Seasonal peaks around April–May    
+  - Estée Lauder, YSL, and Rare Beauty dominate revenue    
+  - NARS leads in conversion efficiency      
+  - Europe tops regional sales with 89M revenue      
+  - Flash Events & Pop-ups outperform other sales channels    
 
 🎛 How You Can Interact  
 
