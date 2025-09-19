@@ -17,21 +17,17 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
   -> Europe tops regional sales with 89M revenue  
   -> Flash Events & Pop-ups outperform other sales channels  
 
-🎛 How You Can Interact
+🎛 How You Can Interact  
 
-Filter by Brand, Region, Event Type, or Location
+  - Filter by Brand, Region, Event Type, or Location  
+  - Compare brands by both revenue and conversion  
+  - Drill into specific regions or channels for deeper insights  
 
-Compare brands by both revenue and conversion
+🛠 Built With  
 
-Drill into specific regions or channels for deeper insights
-
-🛠 Built With
-
-Power BI for dashboard design
-
-DAX measures for KPIs (Avg. Revenue per Unit, Conversion Rate, etc.)
-
-Data cleaning & transformation for accuracy
+  - Power BI for dashboard design  
+  - DAX measures for KPIs (Avg. Revenue per Unit, Conversion Rate, etc.)  
+  - Data cleaning & transformation for accuracy  
 
 🚀 Why It Matters
 
