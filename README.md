@@ -2,14 +2,13 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
 
 🌟 What You’ll See Inside
 
-➡️ At a glance:  
+- At a glance:    
+   - 4M Units Sold   
+   - 399M Total Revenue          
+   - 4K Avg. Revenue per Unit           
+   - 3% Conversion Rate              
 
-  - 4M Units Sold
-  - 399M Total Revenue    
-  - 4K Avg. Revenue per Unit       
-  - 3% Conversion Rate          
-
-- Trends & Insights:  
+- Trends & Insights:    
 
 -> Seasonal peaks around April–May  
 -> Estée Lauder, YSL, and Rare Beauty dominate revenue  
