@@ -38,3 +38,11 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
  - Spot opportunities in underperforming regions  
  - Optimize event types & sales channels  
  - Support data-driven marketing & product decisions  
+
+📂 cosmetics-dashboard  
+│── data/  
+│   ├── cosmetics_raw.csv        # Original raw dataset  
+│   └── cosmetics_clean.csv      # Cleaned dataset used in dashboard  
+│── cosmetics.png                # Dashboard preview image  
+│── README.md                    # Documentation  
+│── dashboard.pbix               # Power BI file  
