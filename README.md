@@ -39,12 +39,13 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
  - Optimize event types & sales channels  
  - Support data-driven marketing & product decisions  
 
-📂 cosmetics-dashboard  
-cosmetics-dashboard/
-│── data/
-│ ├── cosmetics_raw.csv # Original raw dataset
-│ └── cosmetics_clean.csv # Cleaned dataset used in dashboard
-│
-│── cosmetics.png # Dashboard preview image
-│── README.md # Documentation
-│── dashboard.pbix # Power BI file
+## 📂 Repository Structure  
+
+| File/Folder       | Description                         |
+|-------------------|-------------------------------------|
+| `data/`           | Contains datasets                   |
+| ├── cosmetics_raw.csv   | Original raw dataset           |
+| └── cosmetics_clean.csv | Cleaned dataset used in dashboard |
+| `cosmetics.png`   | Dashboard preview image             |
+| `dashboard.pbix`  | Power BI file                       |
+| `README.md`       | Project documentation               |
