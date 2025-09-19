@@ -4,18 +4,18 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
 
 - At a glance:  
 
-  -> 4M Units Sold  
-  -> 399M Total Revenue  
-  -> 4K Avg. Revenue per Unit     
-  -> 3% Conversion Rate      
+-> 4M Units Sold  
+-> 399M Total Revenue  
+-> 4K Avg. Revenue per Unit     
+-> 3% Conversion Rate      
 
 - Trends & Insights:  
 
-  -> Seasonal peaks around April–May  
-  -> Estée Lauder, YSL, and Rare Beauty dominate revenue  
-  -> NARS leads in conversion efficiency    
-  -> Europe tops regional sales with 89M revenue  
-  -> Flash Events & Pop-ups outperform other sales channels  
+-> Seasonal peaks around April–May  
+-> Estée Lauder, YSL, and Rare Beauty dominate revenue  
+-> NARS leads in conversion efficiency    
+-> Europe tops regional sales with 89M revenue  
+-> Flash Events & Pop-ups outperform other sales channels  
 
 🎛 How You Can Interact  
 
