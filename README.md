@@ -52,12 +52,12 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
 
 📌 How to Use
 
- 1. Clone this repository:
+1. Clone this repository:
 
   git clone https://github.com/saritasingh581/luxury-cosmetics-sales-dashboard
 
- 2. Open the .pbix file in Power BI Desktop.
- 3. Explore and interact with the filters and visuals.
+2. Open the .pbix file in Power BI Desktop.
+3. Explore and interact with the filters and visuals.
 
 🤝 Contributing
 
