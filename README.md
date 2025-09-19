@@ -4,10 +4,10 @@ This dashboard was built to transform luxury cosmetics sales data into a simple,
 
 - At a glance:
       
-   - 4M Units Sold     
-   - 399M Total Revenue           
-   - 4K Avg. Revenue per Unit             
-   - 3% Conversion Rate                
+ - 4M Units Sold     
+ - 399M Total Revenue           
+ - 4K Avg. Revenue per Unit             
+ - 3% Conversion Rate                
 
  - Trends & Insights:      
 
